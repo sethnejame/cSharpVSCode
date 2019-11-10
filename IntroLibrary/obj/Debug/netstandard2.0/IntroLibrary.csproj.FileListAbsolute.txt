@@ -1,0 +1,8 @@
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.deps.json
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.dll
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.pdb
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.csprojAssemblyReference.cache
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfoInputs.cache
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfo.cs
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.dll
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.pdb
