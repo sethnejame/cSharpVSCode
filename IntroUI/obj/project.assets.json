@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "IntroLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "IntroLibrary/1.0.0": {
+      "type": "project",
+      "path": "../IntroLibrary/IntroLibrary.csproj",
+      "msbuildProject": "../IntroLibrary/IntroLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "IntroLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/seth/.nuget/packages/": {}
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/IntroLibrary.csproj": {
+              "projectPath": "/home/seth/Dropbox/Coding/cSharpVSCode/IntroLibrary/IntroLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

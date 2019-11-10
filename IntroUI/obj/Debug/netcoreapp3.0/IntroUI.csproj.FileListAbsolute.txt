@@ -1,0 +1,14 @@
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroUI
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroUI.deps.json
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroUI.runtimeconfig.json
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroUI.runtimeconfig.dev.json
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroUI.dll
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroUI.pdb
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroLibrary.dll
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/bin/Debug/netcoreapp3.0/IntroLibrary.pdb
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/obj/Debug/netcoreapp3.0/IntroUI.csprojAssemblyReference.cache
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/obj/Debug/netcoreapp3.0/IntroUI.AssemblyInfoInputs.cache
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/obj/Debug/netcoreapp3.0/IntroUI.AssemblyInfo.cs
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/obj/Debug/netcoreapp3.0/IntroUI.csproj.CopyComplete
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/obj/Debug/netcoreapp3.0/IntroUI.dll
+/home/seth/Dropbox/Coding/cSharpVSCode/IntroUI/obj/Debug/netcoreapp3.0/IntroUI.pdb
